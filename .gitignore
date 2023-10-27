@@ -1,0 +1,8 @@
+.env
+.DS_Store
+
+# API ----
+/api/node_modules
+
+# CLIENT ----
+/client/node_modules
